@@ -7,3 +7,8 @@ author: Piper Gillman
 fileName: movie_night.star
 packageName: movienight
 recommendedInterval: 5
+category: utilities
+tags:
+  - media
+  - time
+  - music

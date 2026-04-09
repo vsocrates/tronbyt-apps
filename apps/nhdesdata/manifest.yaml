@@ -7,3 +7,8 @@ author: dmarcucci
 fileName: nh_des_data.star
 packageName: nhdesdata
 recommendedInterval: 5
+category: utilities
+tags:
+  - weather
+  - tech
+  - utility

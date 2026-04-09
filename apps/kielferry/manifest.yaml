@@ -8,3 +8,6 @@ fileName: kiel_ferry.star
 packageName: kielferry
 broken: true
 recommendedInterval: 5
+category: transit
+tags:
+  - utility

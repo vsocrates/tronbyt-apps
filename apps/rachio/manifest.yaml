@@ -8,3 +8,7 @@ recommendedInterval: 5
 supports2x: true
 fileName: rachio.star
 packageName: rachio
+category: utilities
+tags:
+  - smart-home
+  - wide 2x support

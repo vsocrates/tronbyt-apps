@@ -7,3 +7,8 @@ author: Reed Arneson
 fileName: nhl_live.star
 packageName: nhllive
 recommendedInterval: 5
+category: sports
+tags:
+  - real-time
+  - nhl
+  - hockey

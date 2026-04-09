@@ -7,3 +7,9 @@ author: LukiLeu
 fileName: colorful_clock.star
 packageName: colorfulclock
 recommendedInterval: 0
+category: clocks
+tags:
+  - clock
+  - retro
+  - art
+  - utility

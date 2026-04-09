@@ -7,3 +7,7 @@ author: Neal Wright
 fileName: chess_viewer.star
 packageName: chessviewer
 recommendedInterval: 5
+category: sports
+tags:
+  - gaming
+  - real-time

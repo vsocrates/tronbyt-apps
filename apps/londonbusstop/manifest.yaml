@@ -7,3 +7,6 @@ author: dinosaursrarr
 fileName: london_bus_stop.star
 packageName: londonbusstop
 recommendedInterval: 5
+category: transit
+tags:
+  - local

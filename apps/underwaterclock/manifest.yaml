@@ -7,3 +7,8 @@ author: asea-aranion
 fileName: underwater_clock.star
 packageName: underwaterclock
 recommendedInterval: 0
+category: clocks
+tags:
+  - time
+  - art
+  - clock

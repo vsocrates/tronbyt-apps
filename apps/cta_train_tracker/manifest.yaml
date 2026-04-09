@@ -7,3 +7,6 @@ author: imcnaugh
 fileName: cta_train_tracker.star
 packageName: ctatraintracker
 recommendedInterval: 5
+category: transit
+tags:
+  - productivity

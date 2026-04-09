@@ -7,3 +7,8 @@ author: noahpodgurski
 fileName: roomba.star
 packageName: roomba
 recommendedInterval: 5
+category: smart-home
+tags:
+  - smart-home
+  - utility
+  - lifestyle

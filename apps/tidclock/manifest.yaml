@@ -7,3 +7,9 @@ author: Phildo
 fileName: tidclock.star
 packageName: tidclock
 recommendedInterval: 0
+category: clocks
+tags:
+  - tracking
+  - weather
+  - productivity
+  - utility

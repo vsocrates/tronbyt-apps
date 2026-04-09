@@ -7,3 +7,7 @@ author: tavdog
 fileName: french_wotd.star
 packageName: frenchwotd
 recommendedInterval: 5
+category: education
+tags:
+  - education
+  - local

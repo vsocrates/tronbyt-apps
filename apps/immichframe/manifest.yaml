@@ -7,3 +7,9 @@ author: sfn-git
 fileName: immichframe.star
 packageName: immichframe
 supports2x: true
+category: utilities
+tags:
+  - art
+  - local
+  - time
+  - wide 2x support

@@ -7,3 +7,7 @@ author: laodaochong
 fileName: enphase_solar.star
 packageName: enphasesolar
 recommendedInterval: 5
+category: technology
+tags:
+  - utility
+  - smart-home

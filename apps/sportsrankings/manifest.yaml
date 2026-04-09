@@ -7,3 +7,5 @@ author: Derek Holevinsky
 fileName: sports_rankings.star
 packageName: sportsrankings
 recommendedInterval: 5
+category: sports
+tags:

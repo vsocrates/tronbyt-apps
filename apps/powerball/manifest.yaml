@@ -8,3 +8,7 @@ fileName: powerball.star
 packageName: powerball
 broken: true
 recommendedInterval: 5
+category: entertainment
+tags:
+  - art
+  - gambling

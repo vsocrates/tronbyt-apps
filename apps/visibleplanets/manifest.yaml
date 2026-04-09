@@ -7,3 +7,10 @@ author: Robert Ison
 fileName: visibleplanets.star
 packageName: visibleplanets
 recommendedInterval: 5
+category: astronomy
+tags:
+  - space
+  - science
+  - weather
+  - time
+  - tech

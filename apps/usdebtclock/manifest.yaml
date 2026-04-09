@@ -7,3 +7,8 @@ author: PMK (@pmk)
 fileName: usdebtclock.star
 packageName: usdebtclock
 recommendedInterval: 60
+category: clocks
+tags:
+  - finance
+  - clock
+  - utility

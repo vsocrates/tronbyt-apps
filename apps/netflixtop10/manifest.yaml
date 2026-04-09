@@ -9,3 +9,9 @@ packageName: netflixtop10
 broken: true
 recommendedInterval: 5
 supports2x: true
+category: entertainment
+tags:
+  - media
+  - charts
+  - music
+  - wide 2x support

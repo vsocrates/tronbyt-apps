@@ -7,3 +7,7 @@ author: Conor McLaughlin
 fileName: planes_overhead.star
 packageName: planesoverhead
 recommendedInterval: 5
+category: transit
+tags:
+  - aircraft
+  - utility

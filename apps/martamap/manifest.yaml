@@ -8,3 +8,6 @@ fileName: marta_map.star
 packageName: martamap
 broken: true
 recommendedInterval: 5
+category: transit
+tags:
+  - utility

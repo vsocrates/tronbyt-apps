@@ -7,3 +7,6 @@ author: elliotstoner
 recommendedInterval: 60
 fileName: sobriety_counter.star
 packageName: sobrietycounter
+category: health
+tags:
+  - lifestyle

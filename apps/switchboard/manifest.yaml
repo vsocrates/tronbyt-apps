@@ -6,3 +6,7 @@ desc: Displays data from Switchboard on your Tidbyt.
 author: bguggs
 fileName: switchboard.star
 packageName: switchboard
+category: utilities
+tags:
+  - smart-home
+  - data-display

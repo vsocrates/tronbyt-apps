@@ -7,3 +7,8 @@ author: kcharwood
 fileName: shopify_chart.star
 packageName: shopifychart
 recommendedInterval: 5
+category: utilities
+tags:
+  - shopify
+  - finance
+  - tech

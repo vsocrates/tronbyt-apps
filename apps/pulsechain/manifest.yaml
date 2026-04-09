@@ -7,3 +7,6 @@ author: bretep
 fileName: pulsechain.star
 packageName: pulsechain
 recommendedInterval: 5
+category: finance
+tags:
+  - crypto

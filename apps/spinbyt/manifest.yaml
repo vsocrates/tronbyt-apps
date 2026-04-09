@@ -7,3 +7,8 @@ author: zachlucas
 fileName: spinbyt.star
 packageName: spinbyt
 broken: true
+category: transit
+tags:
+  - utility
+  - real-time
+  - tech

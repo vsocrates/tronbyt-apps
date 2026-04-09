@@ -7,3 +7,7 @@ author: Thomas Hutterer, ThHutterer
 fileName: opnv_austria.star
 packageName: opnvaustria
 recommendedInterval: 5
+category: transit
+tags:
+  - local
+  - real-time

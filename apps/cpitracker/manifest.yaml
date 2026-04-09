@@ -8,3 +8,9 @@ recommendedInterval: 1
 fileName: cpi_tracker.star
 packageName: cpitracker
 supports2x: true
+category: finance
+tags:
+  - finance
+  - tech
+  - utility
+  - wide 2x support

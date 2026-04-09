@@ -7,3 +7,8 @@ author: k.wajdwoicz
 fileName: tidalgraph.star
 packageName: tidalgraph
 recommendedInterval: 5
+category: utilities
+tags:
+  - weather
+  - nature
+  - water-level

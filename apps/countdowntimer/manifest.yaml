@@ -7,3 +7,9 @@ author: Matthew Grasmick
 fileName: countdowntimer.star
 packageName: countdowntimer
 recommendedInterval: 1
+category: utilities
+tags:
+  - time
+  - clock
+  - utility
+  - art

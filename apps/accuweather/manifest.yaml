@@ -7,3 +7,7 @@ author: sudeepban
 fileName: accuweather.star
 packageName: accuweather
 recommendedInterval: 5
+category: weather
+tags:
+  - weather
+  - local

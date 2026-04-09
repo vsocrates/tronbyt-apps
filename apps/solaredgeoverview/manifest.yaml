@@ -7,3 +7,8 @@ author: markazali
 recommendedInterval: 5
 fileName: solaredge.star
 packageName: solaredgeoverview
+category: smart-home
+tags:
+  - utility
+  - smart-home
+  - power-monitoring

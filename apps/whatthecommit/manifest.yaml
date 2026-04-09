@@ -7,3 +7,6 @@ author: dev-manuel
 fileName: whatthecommit.star
 packageName: whatthecommit
 recommendedInterval: 5
+category: entertainment
+tags:
+  - tech

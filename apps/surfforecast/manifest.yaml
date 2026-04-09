@@ -8,3 +8,9 @@ fileName: surf_forecast.star
 packageName: surfforecast
 broken: true
 recommendedInterval: 5
+category: weather
+tags:
+  - sports
+  - nature
+  - weather
+  - local

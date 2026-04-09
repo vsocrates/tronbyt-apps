@@ -7,3 +7,5 @@ author: nyergler
 fileName: sfbf.star
 packageName: sfbayferry
 recommendedInterval: 5
+category: transit
+tags:

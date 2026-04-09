@@ -7,3 +7,7 @@ author: Seth Cottle
 recommendedInterval: 1
 fileName: stock-spotlight.star
 packageName: stockspotlight
+category: finance
+tags:
+  - finance
+  - tech

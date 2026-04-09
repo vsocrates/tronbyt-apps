@@ -9,3 +9,8 @@ id: double-pendulum
 recommendedInterval: 5
 supports2x: true
 minPixletVersion: v0.50.0
+category: entertainment
+tags:
+  - art
+  - science
+  - wide 2x support

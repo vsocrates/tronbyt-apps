@@ -6,3 +6,7 @@ desc: Display a message vertically.
 author: rs7q5
 fileName: vertical_message.star
 packageName: verticalmessage
+category: utilities
+tags:
+  - art
+  - utility

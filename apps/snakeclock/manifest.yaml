@@ -7,3 +7,9 @@ author: paxos
 recommendedInterval: 0
 fileName: snake_clock.star
 packageName: snakeclock
+category: clocks
+tags:
+  - clock
+  - utility
+  - gaming
+  - art

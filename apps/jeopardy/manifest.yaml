@@ -5,3 +5,6 @@ summary: Final Jeopardy questions
 desc: Shows a random historical Final Jeopardy question.
 author: abochnak
 recommendedInterval: 5
+category: entertainment
+tags:
+  - gaming

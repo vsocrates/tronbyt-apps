@@ -7,3 +7,5 @@ author: sgomez72
 fileName: ctaLStatus.star
 packageName: ctalstatus
 recommendedInterval: 5
+category: transit
+tags:

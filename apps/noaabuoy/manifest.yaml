@@ -7,3 +7,8 @@ author: tavdog
 fileName: noaa_buoy.star
 packageName: noaabuoy
 recommendedInterval: 15
+category: utilities
+tags:
+  - nature
+  - weather
+  - science

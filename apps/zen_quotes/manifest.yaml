@@ -8,3 +8,8 @@ fileName: zen_quotes.star
 packageName: zenquotes
 recommendedInterval: 1440
 supports2x: true
+category: lifestyle
+tags:
+  - lifestyle
+  - quote
+  - wide 2x support

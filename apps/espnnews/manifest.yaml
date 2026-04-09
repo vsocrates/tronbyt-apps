@@ -7,3 +7,7 @@ author: rs7q5
 fileName: espn_news.star
 packageName: espnnews
 recommendedInterval: 10
+category: entertainment
+tags:
+  - news
+  - sports

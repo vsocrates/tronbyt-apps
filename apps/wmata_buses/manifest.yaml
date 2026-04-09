@@ -7,3 +7,5 @@ author: abrahamrowe
 fileName: wmata_buses.star
 packageName: wmatabuses
 recommendedInterval: 5
+category: transit
+tags:

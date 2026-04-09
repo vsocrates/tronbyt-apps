@@ -7,3 +7,7 @@ author: threeio
 fileName: precious_metals.star
 packageName: preciousmetals
 recommendedInterval: 5
+category: finance
+tags:
+  - gold
+  - finance

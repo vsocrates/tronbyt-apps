@@ -7,3 +7,8 @@ author: ckyr (credit to Ingmar Stein)
 fileName: solaredgesummary.star
 packageName: solaredgesummary
 recommendedInterval: 30
+category: utilities
+tags:
+  - utility
+  - tracking
+  - smart-home

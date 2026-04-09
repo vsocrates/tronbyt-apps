@@ -7,3 +7,8 @@ author: Daniel Sitnik
 fileName: telegram.star
 packageName: telegram
 recommendedInterval: 5
+category: utilities
+tags:
+  - tracking
+  - media
+  - utility

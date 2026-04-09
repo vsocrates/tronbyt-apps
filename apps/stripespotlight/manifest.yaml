@@ -7,3 +7,8 @@ author: Seth Cottle
 recommendedInterval: 5
 fileName: stripe-spotlight.star
 packageName: stripespotlight
+category: finance
+tags:
+  - finance
+  - stripe
+  - tech

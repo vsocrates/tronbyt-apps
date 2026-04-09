@@ -7,3 +7,7 @@ author: Martin Strauss
 fileName: sf_next_muni.star
 packageName: sfnextmuni
 recommendedInterval: 5
+category: transit
+tags:
+  - muni
+  - sf

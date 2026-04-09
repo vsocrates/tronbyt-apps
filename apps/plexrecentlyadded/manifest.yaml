@@ -7,3 +7,9 @@ author: noahpodgurski
 fileName: plex_recently_added.star
 packageName: plexrecentlyadded
 recommendedInterval: 5
+category: utilities
+tags:
+  - plex
+  - media
+  - utility
+  - tech

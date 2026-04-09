@@ -7,3 +7,7 @@ author: thedriver
 fileName: trimet_arrivals.star
 packageName: trimetarrivals
 recommendedInterval: 5
+category: transit
+tags:
+  - real-time
+  - utility

@@ -7,3 +7,7 @@ author: Andy Day (@adayNU)
 fileName: divvy.star
 packageName: divvy
 recommendedInterval: 5
+category: transit
+tags:
+  - utility
+  - real-time

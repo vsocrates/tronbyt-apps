@@ -8,3 +8,8 @@ fileName: worldcapitals.star
 packageName: worldcapitals
 recommendedInterval: 5
 supports2x: true
+category: utilities
+tags:
+  - local
+  - utility
+  - wide 2x support

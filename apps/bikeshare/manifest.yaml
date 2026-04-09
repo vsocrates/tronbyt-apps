@@ -7,3 +7,7 @@ author: snorremd
 fileName: bikeshare.star
 packageName: bikeshare
 recommendedInterval: 5
+category: transit
+tags:
+  - utility
+  - local

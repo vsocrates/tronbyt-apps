@@ -7,3 +7,9 @@ author: Chris Silverberg
 fileName: usgs_earthquakes.star
 packageName: usgsearthquakes
 recommendedInterval: 5
+category: science
+tags:
+  - science
+  - news
+  - weather
+  - utility

@@ -1,3 +1,4 @@
+---
 id: spotify
 name: Spotify
 summary: Current track
@@ -6,3 +7,9 @@ author: gshepperd
 fileName: spotify.star
 packageName: spotify
 supports2x: true
+category: entertainment
+tags:
+  - music
+  - art
+  - tracking
+  - wide 2x support

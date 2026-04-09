@@ -7,3 +7,7 @@ author: Mantle Rev Ops
 fileName: mantle.star
 packageName: mantle
 recommendedInterval: 5
+category: finance
+tags:
+  - finance
+  - tech

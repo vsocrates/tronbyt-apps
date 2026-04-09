@@ -7,3 +7,7 @@ author: Aiden Vigue
 fileName: ouraring.star
 packageName: ouraring
 recommendedInterval: 5
+category: health
+tags:
+  - lifestyle
+  - tracking

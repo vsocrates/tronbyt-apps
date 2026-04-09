@@ -7,3 +7,7 @@ author: Daniel Sitnik
 fileName: instagram.star
 packageName: instagram
 recommendedInterval: 5
+category: social
+tags:
+  - media
+  - follower-count

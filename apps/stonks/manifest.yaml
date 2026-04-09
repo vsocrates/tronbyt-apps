@@ -7,3 +7,7 @@ author: harrisonpage
 fileName: stonks.star
 packageName: stonks
 recommendedInterval: 1
+category: finance
+tags:
+  - finance
+  - art

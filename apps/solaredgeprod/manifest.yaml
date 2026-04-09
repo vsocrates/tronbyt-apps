@@ -7,3 +7,8 @@ author: Billy_McSkintos
 recommendedInterval: 5
 fileName: solaredge_prod.star
 packageName: solaredgeprod
+category: utilities
+tags:
+  - utility
+  - tracking
+  - smart-home

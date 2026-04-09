@@ -7,3 +7,7 @@ author: Weiqi Ma
 recommendedInterval: 10
 fileName: news_mix.star
 packageName: newsmix
+category: entertainment
+tags:
+  - news
+  - art

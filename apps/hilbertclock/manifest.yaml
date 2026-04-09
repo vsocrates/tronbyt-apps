@@ -7,3 +7,8 @@ author: kevwoods
 fileName: hilbert_clock.star
 packageName: hilbertclock
 recommendedInterval: 0
+category: clocks
+tags:
+  - art
+  - clock
+  - science

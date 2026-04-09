@@ -7,3 +7,5 @@ author: Jason-J-Hunt
 fileName: nj_transit.star
 packageName: njtransit
 recommendedInterval: 5
+category: transit
+tags:

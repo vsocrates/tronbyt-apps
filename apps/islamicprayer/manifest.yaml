@@ -7,3 +7,8 @@ author: Austin Fonacier
 fileName: islamic_prayer.star
 packageName: islamicprayer
 recommendedInterval: 5
+category: utilities
+tags:
+  - lifestyle
+  - clock
+  - utility

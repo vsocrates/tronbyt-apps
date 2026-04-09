@@ -7,3 +7,9 @@ author: J. Keybl
 fileName: local_tides.star
 packageName: localtides
 recommendedInterval: 5
+category: weather
+tags:
+  - weather
+  - water-level
+  - science
+  - utility

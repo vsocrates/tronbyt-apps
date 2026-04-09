@@ -9,3 +9,9 @@ packageName: pokedexplus
 recommendedInterval: 5
 supports2x: true
 minPixletVersion: v0.49.4
+category: gaming
+tags:
+  - gaming
+  - retro
+  - art
+  - wide 2x support

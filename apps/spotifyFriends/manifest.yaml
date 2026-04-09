@@ -7,3 +7,8 @@ author: klaffitte
 fileName: spotify_friends.star
 packageName: spotifyfriends
 recommendedInterval: 5
+category: entertainment
+tags:
+  - music
+  - lifestyle
+  - media

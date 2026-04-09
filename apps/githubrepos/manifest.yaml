@@ -7,3 +7,8 @@ author: tavdog
 recommendedInterval: 5
 fileName: github_repos.star
 packageName: githubrepos
+category: utilities
+tags:
+  - tech
+  - tracking
+  - utility

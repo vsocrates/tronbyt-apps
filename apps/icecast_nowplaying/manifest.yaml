@@ -7,3 +7,8 @@ fileName: icecast-nowplaying.star
 packageName: icecast_nowplaying
 id: icecast-nowplaying
 recommendedInterval: 1
+category: utilities
+tags:
+  - music
+  - media
+  - utility

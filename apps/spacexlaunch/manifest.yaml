@@ -7,3 +7,9 @@ author: rytrose
 fileName: spacex_launch.star
 packageName: spacexlaunch
 recommendedInterval: 5
+category: science
+tags:
+  - space
+  - science
+  - tech
+  - real-time

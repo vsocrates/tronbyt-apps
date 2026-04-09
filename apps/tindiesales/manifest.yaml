@@ -7,3 +7,7 @@ author: Joey Castillo
 fileName: tindie_sales.star
 packageName: tindiesales
 recommendedInterval: 5
+category: utilities
+tags:
+  - finance
+  - utility

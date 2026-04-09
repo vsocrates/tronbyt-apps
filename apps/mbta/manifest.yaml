@@ -7,3 +7,5 @@ author: Marcus Better & Eric Pierce
 fileName: mbta.star
 packageName: mbta
 recommendedInterval: 5
+category: transit
+tags:

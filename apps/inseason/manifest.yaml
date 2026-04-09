@@ -6,3 +6,8 @@ desc: Displays In Season Foods for your region.
 author: Robert Ison
 fileName: inseason.star
 packageName: inseason
+category: lifestyle
+tags:
+  - lifestyle
+  - local
+  - time

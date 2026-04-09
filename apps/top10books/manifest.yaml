@@ -7,3 +7,7 @@ author: shhhmuck
 fileName: top_10_books.star
 packageName: top10books
 recommendedInterval: 5
+category: entertainment
+tags:
+  - education
+  - sports

@@ -7,3 +7,7 @@ author: Sunny Ng
 fileName: goodservice.star
 packageName: goodservice
 recommendedInterval: 5
+category: transit
+tags:
+  - local
+  - utility

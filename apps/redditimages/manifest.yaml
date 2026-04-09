@@ -7,3 +7,8 @@ author: Nicole Brooks
 fileName: reddit_images.star
 packageName: redditimages
 recommendedInterval: 5
+category: entertainment
+tags:
+  - art
+  - news
+  - media

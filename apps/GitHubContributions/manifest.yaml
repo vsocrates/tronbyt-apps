@@ -8,3 +8,9 @@ fileName: githubcontributions.star
 packageName: githubcontributions
 recommendedInterval: 60
 supports2x: true
+category: utilities
+tags:
+  - tech
+  - productivity
+  - dev-tools
+  - wide 2x support

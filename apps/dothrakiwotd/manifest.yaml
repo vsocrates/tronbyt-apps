@@ -7,3 +7,7 @@ author: tavdog
 fileName: dothraki_wotd.star
 packageName: dothrakiwotd
 recommendedInterval: 5
+category: education
+tags:
+  - education
+  - news

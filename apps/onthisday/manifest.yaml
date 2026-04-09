@@ -7,3 +7,8 @@ author: Andrew Hefele
 fileName: onthisday.star
 packageName: onthisday
 recommendedInterval: 5
+category: reference
+tags:
+  - education
+  - news
+  - utility

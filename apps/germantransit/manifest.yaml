@@ -7,3 +7,6 @@ author: kmartinez834
 recommendedInterval: 5
 fileName: german_transit.star
 packageName: germantransit
+category: transit
+tags:
+  - local

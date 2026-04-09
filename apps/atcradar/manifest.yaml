@@ -7,3 +7,7 @@ author: Robert Ison
 fileName: atc_radar.star
 packageName: atcradar
 recommendedInterval: 5
+category: transit
+tags:
+  - air-traffic
+  - real-time

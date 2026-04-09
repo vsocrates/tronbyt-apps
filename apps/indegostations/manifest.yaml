@@ -7,3 +7,7 @@ author: RayPatt
 fileName: indego_stations.star
 packageName: indegostations
 recommendedInterval: 5
+category: transit
+tags:
+  - utility
+  - real-time

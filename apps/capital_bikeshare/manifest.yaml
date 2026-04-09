@@ -7,3 +7,8 @@ author: abrahamrowe
 fileName: capital_bikeshare.star
 packageName: capitalbikeshare
 recommendedInterval: 5
+category: transit
+tags:
+  - tech
+  - utility
+  - real-time

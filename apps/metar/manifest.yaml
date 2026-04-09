@@ -7,3 +7,7 @@ author: all3fox
 fileName: metar.star
 packageName: metar
 recommendedInterval: 5
+category: utilities
+tags:
+  - weather
+  - utility

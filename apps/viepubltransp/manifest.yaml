@@ -8,3 +8,7 @@ fileName: viepubltransp.star
 packageName: viepubltransp
 recommendedInterval: 5
 broken: true
+category: transit
+tags:
+  - local
+  - utility

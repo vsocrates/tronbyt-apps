@@ -8,3 +8,6 @@ fileName: fedex_cup.star
 packageName: fedexcup
 recommendedInterval: 5
 broken: true
+category: sports
+tags:
+  - golf

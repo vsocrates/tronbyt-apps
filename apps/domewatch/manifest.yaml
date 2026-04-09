@@ -7,3 +7,7 @@ author: Shaun Brown
 fileName: dome_watch.star
 packageName: domewatch
 recommendedInterval: 5
+category: news
+tags:
+  - news
+  - real-time

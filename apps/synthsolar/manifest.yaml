@@ -7,3 +7,8 @@ author: Synth Solar
 recommendedInterval: 5
 fileName: synth_solar.star
 packageName: synthsolar
+category: utilities
+tags:
+  - smart-home
+  - weather
+  - utility

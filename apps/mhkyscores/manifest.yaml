@@ -8,3 +8,7 @@ fileName: mhky_scores.star
 packageName: mhkyscores
 recommendedInterval: 5
 broken: true
+category: sports
+tags:
+  - utility  - nhl
+  - hockey

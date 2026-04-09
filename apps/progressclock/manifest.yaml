@@ -7,3 +7,7 @@ author: Jeffery Bennett
 fileName: progressclock.star
 packageName: progressclock
 recommendedInterval: 0
+category: clocks
+tags:
+  - clock
+  - time

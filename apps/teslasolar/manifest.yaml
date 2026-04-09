@@ -7,3 +7,8 @@ author: jweier
 fileName: tesla_solar.star
 packageName: teslasolar
 recommendedInterval: 5
+category: smart-home
+tags:
+  - tech
+  - utility
+  - smart-home

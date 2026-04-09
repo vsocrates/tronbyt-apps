@@ -7,3 +7,8 @@ author: Anthony Rocchio
 fileName: halloween_countdn.star
 packageName: halloweencountdn
 recommendedInterval: 5
+category: utilities
+tags:
+  - halloween
+  - time
+  - utility

@@ -7,3 +7,8 @@ author: AdamMoses-GitHub
 fileName: opm_status.star
 packageName: opmstatus
 recommendedInterval: 5
+category: utilities
+tags:
+  - local
+  - weather
+  - notification

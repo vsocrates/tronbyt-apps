@@ -7,3 +7,7 @@ author: Jake Manske
 fileName: mlb_magic_number.star
 packageName: mlbmagicnumber
 recommendedInterval: 5
+category: sports
+tags:
+  - mlb
+  - baseball

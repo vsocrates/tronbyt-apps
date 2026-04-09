@@ -7,3 +7,9 @@ author: J. Keybl
 fileName: fireflies.star
 packageName: fireflies
 recommendedInterval: 5
+category: utilities
+tags:
+  - clock
+  - art
+  - time
+  - utility

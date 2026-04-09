@@ -7,3 +7,9 @@ author: Josh Reed
 fileName: textbyt.star
 packageName: textbyt
 recommendedInterval: 5
+category: utilities
+tags:
+  - tidbyt
+  - smart-home
+  - notification
+  - utility

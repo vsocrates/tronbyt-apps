@@ -7,3 +7,7 @@ author: hainish
 fileName: effheadlines.star
 packageName: effheadlines
 recommendedInterval: 5
+category: entertainment
+tags:
+  - news
+  - tech

@@ -7,3 +7,7 @@ author: gshipley
 fileName: stock_value.star
 packageName: stockvalue
 recommendedInterval: 1
+category: finance
+tags:
+  - finance
+  - tracking

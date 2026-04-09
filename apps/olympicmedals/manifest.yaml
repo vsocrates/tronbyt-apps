@@ -7,3 +7,7 @@ author: James Woglom
 fileName: olympicmedals.star
 packageName: olympicmedals
 recommendedInterval: 5
+category: sports
+tags:
+  - olympics
+  - medals

@@ -7,3 +7,8 @@ author: M0ntyP
 fileName: nrl_scores.star
 packageName: nrlscores
 recommendedInterval: 5
+category: sports
+tags:
+  - real-time
+  - nrl
+  - rugby

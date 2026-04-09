@@ -7,3 +7,7 @@ author: dan0
 fileName: edinburgh_bus.star
 packageName: edinburghbus
 recommendedInterval: 5
+category: transit
+tags:
+  - real-time
+  - utility

@@ -7,3 +7,7 @@ author: PMK (@pmk)
 fileName: btcmoscowtime.star
 packageName: btcmoscowtime
 recommendedInterval: 1
+category: clocks
+tags:
+  - crypto
+  - finance

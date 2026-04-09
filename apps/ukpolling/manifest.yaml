@@ -7,3 +7,8 @@ author: dinosaursrarr
 recommendedInterval: 5
 fileName: uk_polling.star
 packageName: ukpolling
+category: news
+tags:
+  - local
+  - news
+  - polls

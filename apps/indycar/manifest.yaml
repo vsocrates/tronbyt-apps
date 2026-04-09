@@ -7,3 +7,7 @@ author: jvivona
 fileName: indycar.star
 packageName: indycar
 recommendedInterval: 5
+category: sports
+tags:
+  - indycar
+  - racing

@@ -7,3 +7,8 @@ author: tavdog
 fileName: noaa_tides.star
 packageName: noaatides
 recommendedInterval: 60
+category: weather
+tags:
+  - weather
+  - nature
+  - utility

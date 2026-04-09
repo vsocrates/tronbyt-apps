@@ -7,3 +7,5 @@ author: Jonathan Wescott and Alex Miller
 fileName: mn_metro_transit.star
 packageName: mnmetrotransit
 recommendedInterval: 5
+category: transit
+tags:

@@ -7,3 +7,8 @@ author: tavdog
 recommendedInterval: 5
 fileName: world_tides.star
 packageName: worldtides
+category: weather
+tags:
+  - weather
+  - nature
+  - utility

@@ -7,3 +7,7 @@ author: Robert Ison
 recommendedInterval: 10
 fileName: military_news.star
 packageName: militarynews
+category: news
+tags:
+  - tech
+  - news

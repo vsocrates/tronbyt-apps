@@ -7,3 +7,7 @@ author: harrywynn
 fileName: coinbase.star
 packageName: coinbase
 recommendedInterval: 1
+category: finance
+tags:
+  - crypto
+  - finance

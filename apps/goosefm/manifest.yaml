@@ -7,3 +7,6 @@ author: jqr
 fileName: goose_fm.star
 packageName: goosefm
 recommendedInterval: 5
+category: transit
+tags:
+  - music

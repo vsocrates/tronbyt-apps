@@ -7,3 +7,8 @@ author: meejle
 fileName: guardian_news.star
 packageName: guardiannews
 recommendedInterval: 10
+category: news
+tags:
+  - guardian
+  - news
+  - media

@@ -7,3 +7,9 @@ author: schumatt
 fileName: ms_teams_status.star
 packageName: msteamsstatus
 recommendedInterval: 5
+category: utilities
+tags:
+  - presence
+  - tracking
+  - smart-home
+  - utility

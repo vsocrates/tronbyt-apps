@@ -7,3 +7,9 @@ author: Josiah Winslow
 fileName: oscars_custard.star
 packageName: oscarscustard
 recommendedInterval: 5
+category: food
+tags:
+  - lifestyle
+  - dessert
+  - flavor
+  - local

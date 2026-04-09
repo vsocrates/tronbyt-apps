@@ -7,3 +7,9 @@ author: carmineguida
 fileName: iss_location.star
 packageName: isslocation
 recommendedInterval: 5
+category: science
+tags:
+  - space
+  - science
+  - local
+  - real-time

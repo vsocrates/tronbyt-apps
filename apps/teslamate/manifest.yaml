@@ -9,3 +9,9 @@ packageName: teslamate
 recommendedInterval: 30
 supports2x: true
 minPixletVersion: v0.49.9
+category: utilities
+tags:
+  - tech
+  - smart-home
+  - utility
+  - wide 2x support

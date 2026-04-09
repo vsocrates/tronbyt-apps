@@ -8,3 +8,9 @@ fileName: chemical_elements.star
 packageName: chemicalelements
 recommendedInterval: 5
 supports2x: true
+category: utilities
+tags:
+  - tech
+  - science
+  - utility
+  - wide 2x support

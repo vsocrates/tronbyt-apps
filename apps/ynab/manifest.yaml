@@ -7,3 +7,6 @@ author: DanielJRutledge
 fileName: ynab.star
 packageName: ynab
 recommendedInterval: 5
+category: finance
+tags:
+  - finance

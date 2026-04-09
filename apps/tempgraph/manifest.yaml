@@ -7,3 +7,8 @@ author: Daniel Segel
 fileName: tempgraph.star
 packageName: tempgraph
 recommendedInterval: 5
+category: weather
+tags:
+  - clock
+  - weather
+  - utility

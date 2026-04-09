@@ -7,3 +7,8 @@ author: broepke
 fileName: catfact.star
 packageName: catfact
 recommendedInterval: 5
+category: entertainment
+tags:
+  - lifestyle
+  - nature
+  - news

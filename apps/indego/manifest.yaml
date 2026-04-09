@@ -7,3 +7,7 @@ author: radiocolin
 fileName: indego.star
 packageName: indego
 recommendedInterval: 5
+category: transit
+tags:
+  - tracking
+  - utility

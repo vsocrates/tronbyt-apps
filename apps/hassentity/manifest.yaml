@@ -7,3 +7,7 @@ author: InTheDaylight14
 fileName: hass_entity.star
 packageName: hassentity
 recommendedInterval: 5
+category: smart-home
+tags:
+  - smart-home
+  - utility

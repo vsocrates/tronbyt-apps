@@ -7,3 +7,7 @@ author: flynnt
 fileName: armageddon_trackr.star
 packageName: armageddontrackr
 recommendedInterval: 5
+category: science
+tags:
+  - asteroids
+  - space

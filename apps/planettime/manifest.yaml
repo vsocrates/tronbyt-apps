@@ -6,5 +6,11 @@ desc: Show where the planets are in their orbits.
 author: Brombomb
 fileName: planet_time.star
 packageName: planettime
-minPixletVersion: 'v0.30.0'
+minPixletVersion: v0.30.0
 supports2x: true
+category: clocks
+tags:
+  - space
+  - tech
+  - planets
+  - wide 2x support

@@ -7,3 +7,6 @@ author: dinosaursrarr
 fileName: busy_tube.star
 packageName: busytube
 recommendedInterval: 5
+category: transit
+tags:
+  - local

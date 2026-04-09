@@ -7,3 +7,9 @@ author: Mike Toscano
 fileName: steam_plus.star
 packageName: steamplus
 recommendedInterval: 5
+category: utilities
+tags:
+  - gaming
+  - tech
+  - tracking
+  - utility

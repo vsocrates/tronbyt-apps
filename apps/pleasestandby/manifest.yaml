@@ -8,3 +8,9 @@ fileName: please_stand_by.star
 packageName: pleasestandby
 recommendedInterval: 5
 supports2x: true
+category: utilities
+tags:
+  - utility
+  - tracking
+  - art
+  - wide 2x support
