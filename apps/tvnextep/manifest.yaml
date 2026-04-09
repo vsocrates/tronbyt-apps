@@ -1,0 +1,6 @@
+---
+id: tv-shows-next-ep
+name: TV Shows Next Ep
+summary: Displays TV show air dates
+desc: Displays the next episode air dates of three shows using tvdb.
+author: vsocrates
